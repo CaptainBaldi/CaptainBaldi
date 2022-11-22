@@ -14,7 +14,7 @@ Can script in Lua, and I'm learning JavaScript.
 
 Discord - Detective Baldi#1002
 
-Top 2 I hardly use but I'm on discord often.
+Top 2 I hardly use but I'm on Discord often.
 ***
 
 I'm good at arguing, don't mess with me.
