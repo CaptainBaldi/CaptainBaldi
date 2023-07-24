@@ -5,16 +5,12 @@ I'm Captain Baldi.
 
 I mostly play Baldi's Basics and FNF.
 
-Can script in Lua, and I'm learning JavaScript.
+Can script in Lua and code in HaxeFlixel.
 
 ### Socials
-[Twitter](https://twitter.com/DetectiveBaldi)
+I use Gamejolt, Gamebanana, Discord, Youtube, Twitter and of course, Github!
+I rarely use Gamejolt and Twitter, but I'm decently active on the rest.
 
-[GameJolt](https://gamejolt.com/@DetectiveBaldi)
-
-Discord - Detective Baldi#1002
-
-Top 2 I hardly use but I'm on Discord often.
+Discord - detectivebaldi/Detective Baldi
+Others can mostly be found by searching "Captain Baldi".
 ***
-
-I'm good at arguing, don't mess with me.
