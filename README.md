@@ -1,11 +1,11 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CaptainBaldi)
 
 Hi
-I'm Captain Baldi.
+I'm Detective Baldi.
 
 I mostly play Baldi's Basics and FNF.
 
-Can script in Lua and code in HaxeFlixel.
+Can script in Lua and code in Haxe/HaxeFlixel.
 
 ### Socials
 I am on GameJolt, Gamebanana, Discord, Youtube, Twitter and of course, GitHub!
